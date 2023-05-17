@@ -1,5 +1,6 @@
 <h2 align = "center"> Welcome to Rubiya Tasnim's profile 👋</h2>
 
+
 <!--
 **rutasnim/rutasnim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,4 +26,12 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com)
 [![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com)
 [![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) [![](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint) [![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.office.com)
+
+<h3 align = "center"> Data Analysis Projects </h2> 
+
+| [Stackoverflow EDA](https://github.com/rutasnim/Stackoverflow_Bigquery)|  [Mountains of the world](https://github.com/rutasnim/Mountain_webscrapping)|[Coffee Happiness](https://github.com/rutasnim/Happiness-And-Coffee)| [Recycle Bin locator](https://github.com/rutasnim/RecycleBin_Locator)|
+| :-:| :-:| :-:| :-:|
+|Big Query exploratory data analysis | Webscrapping data, analysis and visualization | Data cleaning with pandas, sql and correlation |Locate public recycle bin near you in NYC|
+
+
 
