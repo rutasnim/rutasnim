@@ -36,5 +36,6 @@ Here are some ideas to get you started:
 | :-:| :-:| :-:| :-:|
 |Big Query exploratory data analysis | Webscrapping data, analysis and visualization | Data cleaning with pandas, sql and correlation |Locate public recycle bin near you in NYC|
 
+<h3 align = "center"> Machine Learning Projects </h3> 
 
 
