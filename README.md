@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 |[Diversity in Chem Engineering](https://public.tableau.com/app/profile/rubiya.tasnim/viz/GenderGapChemicalEngineering/Dashboard2)|  [Netflix Poster](https://drive.google.com/file/d/1TbEjpp3Efrftk3lWSZ1Q07ZcOucUdPk4/view?usp=sharing)|
 | :-:| :-:| 
 | Tableau | Plotly, Canva|
-| [<img src = "https://github.com/rutasnim/DataViz/blob/main/Posters/GENDER%20GAP%20in%20MOMA.png" width = 500 height = 300/>](https://public.tableau.com/app/profile/rubiya.tasnim/viz/GenderGapChemicalEngineering/Dashboard2)| [<img src = "https://github.com/rutasnim/DataViz/blob/main/Posters/Netflix%20Data%20Poster.png" width = 500 height = 300/>](https://drive.google.com/file/d/1TbEjpp3Efrftk3lWSZ1Q07ZcOucUdPk4/view?usp=sharing)
+| [<img src = "https://github.com/rutasnim/DataViz/blob/main/Posters/ChemE%20Diversity.png" width = 500 height = 300/>](https://public.tableau.com/app/profile/rubiya.tasnim/viz/GenderGapChemicalEngineering/Dashboard2)| [<img src = "https://github.com/rutasnim/DataViz/blob/main/Posters/Netflix%20Data%20Poster.png" width = 500 height = 300/>](https://drive.google.com/file/d/1TbEjpp3Efrftk3lWSZ1Q07ZcOucUdPk4/view?usp=sharing)
 
 |[Coffee Consumption Dashboard](https://public.tableau.com/app/profile/rubiya.tasnim/viz/WorldCoffeeConsumption_16583487329070/Dashboard1)|[MoMA Poster](https://drive.google.com/file/d/1feV2RApwIgmdkTTYbEwLPb0eQ7EDdoX-/view?usp=sharing)|
 | :-:| :-:| 
-|[<img src = "https://github.com/rutasnim/DataViz/blob/main/Posters/GENDER%20GAP%20in%20MOMA.png" width = 500 height = 300/>](https://public.tableau.com/app/profile/rubiya.tasnim/viz/WorldCoffeeConsumption_16583487329070/Dashboard1)|[<img src = "https://github.com/rutasnim/DataViz/blob/main/Posters/GENDER%20GAP%20in%20MOMA.png" width = 500 height = 300/>](https://drive.google.com/file/d/1feV2RApwIgmdkTTYbEwLPb0eQ7EDdoX-/view?usp=sharing)|
+|[<img src = "https://github.com/rutasnim/DataViz/blob/main/Posters/Coffee.png" width = 500 height = 300/>](https://public.tableau.com/app/profile/rubiya.tasnim/viz/WorldCoffeeConsumption_16583487329070/Dashboard1)|[<img src = "https://github.com/rutasnim/DataViz/blob/main/Posters/GENDER%20GAP%20in%20MOMA.png" width = 500 height = 300/>](https://drive.google.com/file/d/1feV2RApwIgmdkTTYbEwLPb0eQ7EDdoX-/view?usp=sharing)|
 
 
 
