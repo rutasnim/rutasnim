@@ -51,3 +51,6 @@ Here are some ideas to get you started:
 <h3 align = "center"> Machine Learning Projects: </h3> 
 
 
+<h3 align = "center"> Big Data Analytics: </h3> 
+
+<h3 align = "center"> Data Mining: </h3>
