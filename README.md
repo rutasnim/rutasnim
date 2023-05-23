@@ -1,6 +1,8 @@
 <h2 align = "center"> Welcome to Rubiya Tasnim's profile 👋</h2>
 
-- 🌱 Data Enthusiast 
+- 🌱 I am a Data Enthusiast. Welcome to my portfolio where I showcase my learnings in the field of Data science and analytics
+- 📫 How to reach me:
+- ⚡ Fun fact:
 <!--
 **rutasnim/rutasnim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
