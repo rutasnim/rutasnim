@@ -29,6 +29,10 @@ Here are some ideas to get you started:
 
 <h3 align = "center"> Data Visualization </h3> 
 
+|  [Diversity in Chem Engineering](https://public.tableau.com/app/profile/rubiya.tasnim/viz/GenderGapChemicalEngineering/Dashboard2)|  [Netflix Poster](https://drive.google.com/file/d/1TbEjpp3Efrftk3lWSZ1Q07ZcOucUdPk4/view?usp=sharing)|
+| :-:| :-:| 
+| [<img src = "https://github.com/rutasnim/DataViz/blob/main/Posters/GENDER%20GAP%20in%20MOMA.png" width = 500 height = 300/>](https://public.tableau.com/app/profile/rubiya.tasnim/viz/GenderGapChemicalEngineering/Dashboard2)| [<img src = "https://github.com/rutasnim/DataViz/blob/main/Posters/Netflix%20Data%20Poster.png" width = 500 height = 300/>](https://drive.google.com/file/d/1TbEjpp3Efrftk3lWSZ1Q07ZcOucUdPk4/view?usp=sharing)
+
 
 <h3 align = "center"> Data Analysis Projects </h3> 
 
