@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com)
 [![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) [![](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint) [![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.office.com)
 
-<h3 align = "center"> Data Visualization </h3> 
+
+<h3 align = "center"> Data Visualization Projects: </h3> 
 
 |[Diversity in Chem Engineering](https://public.tableau.com/app/profile/rubiya.tasnim/viz/GenderGapChemicalEngineering/Dashboard2)|  [Netflix Poster](https://drive.google.com/file/d/1TbEjpp3Efrftk3lWSZ1Q07ZcOucUdPk4/view?usp=sharing)|
 | :-:| :-:| 
@@ -41,12 +42,12 @@ Here are some ideas to get you started:
 
 
 
-<h3 align = "center"> Data Analysis Projects </h3> 
+<h3 align = "center"> Data Analysis Projects: </h3> 
 
 | [Stackoverflow EDA](https://github.com/rutasnim/Stackoverflow_Bigquery)|  [Mountains of the world](https://github.com/rutasnim/Mountain_webscrapping)|[Coffee Happiness](https://github.com/rutasnim/Happiness-And-Coffee)| [Recycle Bin locator](https://github.com/rutasnim/RecycleBin_Locator)|
 | :-:| :-:| :-:| :-:|
 |Big Query exploratory data analysis | Webscrapping data, analysis and visualization | Data cleaning with pandas, sql and correlation |Locate public recycle bin near you in NYC|
 
-<h3 align = "center"> Machine Learning Projects </h3> 
+<h3 align = "center"> Machine Learning Projects: </h3> 
 
 
