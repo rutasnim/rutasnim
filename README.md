@@ -1,6 +1,6 @@
 <h2 align = "center"> Welcome to Rubiya Tasnim's profile 👋</h2>
 
-- 🌱 I am a Data Enthusiast. Welcome to my portfolio where I showcase my learnings in the field of Data science and analytics
+- 🌱 I am a __Data Enthusiast__. Welcome to my portfolio where I showcase my learnings in the field of __Data science and analytics__
 - 📫 How to reach me:
 - ⚡ Fun fact:
 <!--
