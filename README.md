@@ -2,7 +2,7 @@
 
 - 🌱 I am a __Data Enthusiast__. Welcome to my portfolio where I showcase my learnings in the field of __Data science and analytics__
 - 📫 How to reach me:
-- ⚡ Fun fact:
+- ⚡ Hobbies: Hiking, Volunteering, Reading, Painting 
 <!--
 **rutasnim/rutasnim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
