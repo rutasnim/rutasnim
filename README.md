@@ -45,14 +45,25 @@ Here are some ideas to get you started:
 
 
 <h3 align = "center"> Data Analysis Projects: </h3> 
-
+<!--
 | [Stackoverflow EDA](https://github.com/rutasnim/Stackoverflow_Bigquery)|  [Mountains of the world](https://github.com/rutasnim/Mountain_webscrapping)|[Coffee Happiness](https://github.com/rutasnim/Happiness-And-Coffee)| [Recycle Bin locator](https://github.com/rutasnim/RecycleBin_Locator)|
 | :-:| :-:| :-:| :-:|
 |Big Query exploratory data analysis | Webscrapping data, analysis and visualization | Data cleaning with pandas, sql and correlation |Locate public recycle bin near you in NYC|
+-->
+
+
+
+[![rutasnim/Happiness-And-Coffee - GitHub](https://gh-card.dev/repos/rutasnim/Happiness-And-Coffee.svg)](https://github.com/rutasnim/Happiness-And-Coffee)      [![rutasnim/Mountain_webscrapping - GitHub](https://gh-card.dev/repos/rutasnim/Mountain_webscrapping.svg)](https://github.com/rutasnim/Mountain_webscrapping)
+
+
+[![rutasnim/Stackoverflow_Bigquery - GitHub](https://gh-card.dev/repos/rutasnim/Stackoverflow_Bigquery.svg)](https://github.com/rutasnim/Stackoverflow_Bigquery) [![rutasnim/RecycleBin_Locator - GitHub](https://gh-card.dev/repos/rutasnim/RecycleBin_Locator.svg)](https://github.com/rutasnim/RecycleBin_Locator)
 
 <h3 align = "center"> Machine Learning Projects: </h3> 
 
+[![rutasnim/COVID-19_Lung-_Lesion_Seg - GitHub](https://gh-card.dev/repos/rutasnim/COVID-19_Lung-_Lesion_Seg.svg)](https://github.com/rutasnim/COVID-19_Lung-_Lesion_Seg)
 
 <h3 align = "center"> Big Data Analytics: </h3> 
 
 <h3 align = "center"> Data Mining: </h3>
+
+
