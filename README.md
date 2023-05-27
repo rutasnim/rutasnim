@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 
 
-[![rutasnim/Happiness-And-Coffee - GitHub](https://gh-card.dev/repos/rutasnim/Happiness-And-Coffee.svg)](https://github.com/rutasnim/Happiness-And-Coffee)      [![rutasnim/Mountain_webscrapping - GitHub](https://gh-card.dev/repos/rutasnim/Mountain_webscrapping.svg)](https://github.com/rutasnim/Mountain_webscrapping)
+[![rutasnim/Happiness-And-Coffee - GitHub](https://gh-card.dev/repos/rutasnim/Happiness-And-Coffee.svg)](https://github.com/rutasnim/Happiness-And-Coffee)[![rutasnim/Mountain_webscrapping - GitHub](https://gh-card.dev/repos/rutasnim/Mountain_webscrapping.svg)](https://github.com/rutasnim/Mountain_webscrapping)
 
 
 [![rutasnim/Stackoverflow_Bigquery - GitHub](https://gh-card.dev/repos/rutasnim/Stackoverflow_Bigquery.svg)](https://github.com/rutasnim/Stackoverflow_Bigquery) [![rutasnim/RecycleBin_Locator - GitHub](https://gh-card.dev/repos/rutasnim/RecycleBin_Locator.svg)](https://github.com/rutasnim/RecycleBin_Locator)
