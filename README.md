@@ -67,6 +67,8 @@ Here are some ideas to get you started:
 <h3 align = "center"> Machine Learning Projects: </h3> 
 
 |[![rutasnim/COVID-19_Lung-_Lesion_Seg - GitHub](https://gh-card.dev/repos/rutasnim/COVID-19_Lung-_Lesion_Seg.svg)](https://github.com/rutasnim/COVID-19_Lung-_Lesion_Seg)|[![rutasnim/Delivery_Duration_Prediction - GitHub](https://gh-card.dev/repos/rutasnim/Delivery_Duration_Prediction.svg)](https://github.com/rutasnim/Delivery_Duration_Prediction)|
+| :-:| :-:|
+|||
 
 
 <h3 align = "center"> Big Data Analytics: </h3> 
